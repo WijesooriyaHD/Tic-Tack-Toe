@@ -1,4 +1,4 @@
-# Tic-Tack-Toe
+# Tick-Tack-Toe
 
 ## a simple game
 
